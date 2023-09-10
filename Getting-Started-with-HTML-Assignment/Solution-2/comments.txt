@@ -1,0 +1,33 @@
+1. Comments in HTML serve the purpose of providing human-readable notes or explanations within the HTML code.
+2. These comments are not displayed in the web page when viewed in a browser but can be useful for documentation and code organization.
+3. Comments can be helpful for debugging.
+
+In HTML, comments are written using the <!-- and --> delimiters. Anything enclosed within these delimiters will be treated as a comment and will not be rendered in the web page.
+
+Here's an example of how to use comments in an HTML document:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to my website</h1>
+    
+    <!-- This is a comment. It provides additional information about the following paragraph. -->
+    <p>This is the main content of my web page. It can include text, images, links, and more.</p>
+    
+    <!--
+    We can also use multi-line comments like this.
+    These comments can span across multiple lines.
+    -->
+    
+    <p>Feel free to explore the site and learn more about HTML and web development!</p>
+</body>
+</html>
+
+In this example:
+
+The comments are enclosed within <!-- and --> delimiters.
+The first comment provides additional information about the paragraph that follows it.
+The second comment demonstrates a multi-line comment.
