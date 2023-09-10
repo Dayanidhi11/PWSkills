@@ -1,0 +1,26 @@
+1. Tags:
+
+(a) Tags are special keywords enclosed in angle brackets < > that define the beginning and end of HTML elements. Tags are used to providing structure and meaning to the document.
+(b) Tags are case-insensitive in HTML.
+(c) Most HTML elements consist of an opening tag, a closing tag, and the content between them. The closing tag is identical to the opening tag but with a forward slash / before the tag name.
+
+2. Elements:
+
+(a) Elements are made up of both opening and closing tags, along with the content they enclose. An element represents a specific piece of content or a structural component on a web page.
+(b) Elements are the building blocks of an HTML document and are used to define text, images, links, headings, paragraphs, and other content types.
+(c) Elements can also have attributes, which provide additional information or properties about the element. Attributes are placed within the opening tag.
+
+Example:
+
+<p>This is a <strong>paragraph</strong> of text with <a href="https://www.example.com">a link</a>.</p>
+
+In this example:
+
+<p> is the opening tag for a paragraph element.
+</p> is the closing tag for the same paragraph element.
+Inside the paragraph, we have more elements:
+<strong> is used for strong or emphasized text.
+</strong> is the closing tag for the strong element.
+<a> is used for creating hyperlinks and includes an href attribute that specifies the URL.
+</a> is the closing tag for the anchor (link) element.
+Together, the HTML tags and elements structure and define the content of the web page. When rendered in a web browser, this example would display a paragraph of text with a portion of it emphasized and a hyperlink to an external website.
